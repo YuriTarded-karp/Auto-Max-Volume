@@ -1,4 +1,12 @@
 [README_EN.md](https://github.com/user-attachments/files/32867783/README_EN.md)
+
+Shortcut:
+-download BT-Max-1.0.apk on your phone
+-find it in your download folder
+-Enable unknown sources
+-click install
+-Done, now you can use the app, type a name of the device while you are connected, and chose if you want in on or off
+
 # BT Max
 
 BT Max is a simple Android app that keeps media volume at the maximum level for a selected connected Bluetooth audio device. The user enters the device name or selects it from the list of currently connected devices, enables protection, and the app restores 100% volume whenever Android reports that the media volume has been lowered.
